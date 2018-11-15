@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542266706 source:d:\project\lecture fichier csv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees_lecture.h"
+
+1542269616 source:d:\project\lecture fichier csv\donnees_lecture.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees_lecture.h"
+
+1542268335 d:\project\lecture fichier csv\donnees_lecture.h
+
